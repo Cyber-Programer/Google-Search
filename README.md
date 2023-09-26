@@ -14,6 +14,10 @@ The Google Search Assistant for Google Dorking is a Python tool designed to help
 
 - User-Friendly Interface: The user interface is straightforward, making it accessible to both beginners and experienced users.
 
+<p align="center">
+  <img src="code1.png" alt="Alt Text" height="500">
+</p>
+
 ### How to Use:
 
 - Run the tool by executing the `google_search.py` script in your terminal or command prompt.
