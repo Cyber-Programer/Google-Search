@@ -19,7 +19,14 @@ The Google Search Assistant for Google Dorking is a Python tool designed to help
 </p>
 
 ### How to Use:
-
+```
+  apt update -y
+  apt upgrade -y
+  apt install python -y
+  git clone https://github.com/Cyber-Programer/Google-Search.git
+  cd Google-Search
+  python google_search.py
+```
 - Run the tool by executing the `google_search.py` script in your terminal or command prompt.
 
 - Enter your desired search query. For Google dorking, you can use operators like inurl:, intext:, filetype:, etc., to refine your search.
