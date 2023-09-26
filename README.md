@@ -25,7 +25,7 @@ The Google Search Assistant for Google Dorking is a Python tool designed to help
   apt install python -y
   git clone https://github.com/Cyber-Programer/Google-Search.git
   cd Google-Search
-  python google_search.py
+  python3 google_search.py
 ```
 - Run the tool by executing the `google_search.py` script in your terminal or command prompt.
 
